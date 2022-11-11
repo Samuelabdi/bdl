@@ -10,7 +10,7 @@ if (isset($_POST['bsimpan'])) {
     '$_POST[talamat]',
     '$_POST[tprodi]'
     )");
-
+    //dgsdhdrhhsdrgsdgdrghasegwe
     //membuat pengujian jika simpan data berhasil atau gagal
     if ($simpan) {
         echo "<script>
